@@ -2,7 +2,7 @@
 
 
 In the this part you are going to modify a pre-trained neural network, so that it can detect objects where the initial network is not trained for. This modification of an existing pre-trained network for other tasks is called transfer learning.  
-![](https://www.researchgate.net/publication/342400905/figure/fig4/AS:905786289057792@1592967688003/The-architecture-of-our-transfer-learning-model.jpg)
+![https://www.researchgate.net/publication/342400905/figure/fig4/AS:905786289057792@1592967688003/The-architecture-of-our-transfer-learning-model.jpg](./Images/The-architecture-of-our-transfer-learning-model.jpg)
 
 
 ## workflow
